@@ -21,3 +21,19 @@ services:
       - TOKEN=your-domeneshop-token
       - SECRET=your-domeneshop-secret
 ```
+
+## Contributors ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://github.com/stianhb"><img src="https://avatars.githubusercontent.com/u/2493466?v=4" width="100px;" alt=""/><br /><sub><b>Stian Hoel</b></sub></a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
